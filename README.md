@@ -1,10 +1,9 @@
 <h1 align="center">Hello there 👋 I'm Anthony Sackey</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="600" height="300"/>
-  
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="600" height="300"/>
 </div>
-
+<br>
 🚀 My objective? Software engineering enthusiast with a passion for embracing new challenges and continuously expanding my skill set. 
 
 🎯 My goal? To achieve personal growth, contribute to dynamic teams, and create innovative, impactful technological solutions.
