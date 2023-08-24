@@ -1,7 +1,8 @@
 <h1 align="center">Hello there 👋 I'm Anthony Sackey</h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="600" height="300"/>
+  
 </div>
 
 🚀 My objective? Software engineering enthusiast with a passion for embracing new challenges and continuously expanding my skill set. 
@@ -31,8 +32,8 @@
   <a href="https://www.linkedin.com/in/anthony-sackey-3490a3260/" target=”blank”>
     <img align=”center” src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/channel/UC96EdVBRa2ASy1TySbMgPpg/" target=”blank”>
+    <img align=”center” src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/AnthonySackey9" target=”blank”>
     <img align=”center” src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
